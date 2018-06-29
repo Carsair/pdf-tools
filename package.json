@@ -1,0 +1,14 @@
+{
+  "name": "pdf-tools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Carsair",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "pdfreader": "^0.2.5"
+  }
+}
